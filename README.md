@@ -2,7 +2,7 @@
 <h3 align="center">Deep Learning Intern 👾</h3>
 <h3 align="center">NLP | Deep Learning | Python </h3> 
 
-Qualification: MTech in Electrical & Electronics from College of Engineering Pune.
+Qualification: MTech in Electrical & Electronics from College of Engineering, Pune.
 
 Strong hands-on Statistical modelling, Machine learning, Deep learning, AI, NLP, Computer Vision, Python,SQL .
 
