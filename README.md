@@ -6,7 +6,7 @@ Qualification: MTech in Electrical & Electronics from College of Engineering, Pu
 
 Strong hands-on Statistical modelling, Machine learning, Deep learning, AI, NLP, Computer Vision, Python,SQL .
 
-I have 1.8 year experience as Programmer Analyst in Cognizant Technology Solutions and 1+ years of experience in various fields and internship as Data Scientist, looking for transition to the Data Scientist Role. With interest in analyzing raw data and statistics, brings excellent communication abilities with hands-on experience in building Machine Learning models,natural language processing , deep learning ,transfer learning models to solve challenging business problems with deployment.
+I have 1.8 year of experience as Programmer Analyst in Cognizant Technology Solutions and 1+ years of experience in various fields and internship as Data Scientist, looking for transition to the Data Scientist Role. With interest in analyzing raw data and statistics, brings excellent communication abilities with hands-on experience in building Machine Learning models,natural language processing , deep learning ,transfer learning models to solve challenging business problems with deployment.
 
 
 I have worked on a variety of domains and projects.
