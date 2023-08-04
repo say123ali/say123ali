@@ -6,7 +6,7 @@ Qualification: MTech in Electrical & Electronics from College of Engineering, Pu
 
 Strong hands-on Statistical modelling, Machine learning, Deep learning, AI, NLP, Computer Vision, Python,SQL .
 
-I have 1.8 year of experience as Programmer Analyst in Cognizant Technology Solutions and 1+ years of experience in various fields and internship as Data Scientist, looking for transition to the Data Scientist Role. With interest in analyzing raw data and statistics, brings excellent communication abilities with hands-on experience in building Machine Learning models,natural language processing , deep learning ,transfer learning models to solve challenging business problems with deployment.
+I have 1.8 year of experience as Programmer Analyst in Cognizant Technology Solutions and 1+ years of experience in various fields and internship as Data Scientist, looking for transition to the Data Scientist Role. 
 
 
 I have worked on a variety of domains and projects.
@@ -17,12 +17,13 @@ I have worked on a variety of domains and projects.
 - Sentiment Analysis
 - Applying AutoML
 
-
+- 👨‍💻 All of my projects are available at [https://github.com/say123ali?tab=repositories](https://github.com/say123ali?tab=repositories)
 - 🔭 I’m currently learning Pyspark with Databricks
 -  I have completed Google Cloud Skill Boost Certification program on Generative AI.
 -     Working on End to End Data Engineering and ML Project Creating CI/CD Pipeline[Project](https://github.com/say123ali/UBER-Data-Analytics)(https://github.com/say123ali/mlproject)
 - 🌱 I’m currently learning Natural Language Processing [NLP Learning](https://github.com/say123ali/NLP-Projects)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/sayali-salunkhe-a7a021b5/)
+- 💬 Ask me about **Python,MySQL, Machine Learning, NLP and Power BI**
 
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
