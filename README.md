@@ -22,6 +22,7 @@ I have worked on a variety of domains and projects.
 -  I have completed Google Cloud Skill Boost Certification program on Generative AI.
 -     Working on End to End Data Engineering and ML Project Creating CI/CD Pipeline[Project](https://github.com/say123ali/UBER-Data-Analytics)(https://github.com/say123ali/mlproject)
 - 🌱 I’m currently learning Generative AI with Large Language Models [NLP Learning](https://github.com/say123ali/NLP-Projects)
+-  [Generative AI ](https://www.cloudskillsboost.google/public_profiles/2bd7c50e-7de9-477e-ba70-a9e21277e473)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/sayali-salunkhe-a7a021b5/)
 - 💬 Ask me about **Python,MySQL, Machine Learning, NLP and Power BI**
 
