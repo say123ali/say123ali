@@ -17,7 +17,7 @@ I have worked on a variety of domains and projects.
 - Sentiment Analysis
 - Applying AutoML
 
-- 👨‍💻 All of my projects are available at [https://github.com/say123ali?tab=repositories](https://github.com/say123ali?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/say123ali?tab=repositories)
 - 🔭 I’m currently learning Pyspark with Databricks [Pyspark](https://github.com/say123ali/Pyspark-with-Databricks)
 -  I have completed Google Cloud Skill Boost Certification program on Generative AI.
 -     Working on End to End Data Engineering and ML Project Creating CI/CD Pipeline[Project](https://github.com/say123ali/UBER-Data-Analytics)(https://github.com/say123ali/mlproject)
