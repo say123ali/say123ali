@@ -15,11 +15,12 @@ I have 1.8 year of experience as Programmer Analyst in Cognizant Technology Solu
 
 ✅ Computer Vision: - CNN, VGG16, Alex net, Inception Net, RCNN, YOLO5, Transfer Learning, Image Classification, TensorFlow Object Detection, Image Captioning, Face Recognition
 
-⏩ I am open to new exciting opportunities with a valuable organization. Feel free to contact and connect with me if you think I can add value to your work or together, we can collaborate to create something amazing.
+⏩I am open to new exciting opportunities with a valuable organization. Feel free to contact and connect with me if you think I can add value to your work or together, we can collaborate to create something amazing.
 📧 You can connect with me through this Email Id: - sayali.sk333@gmail.com
 🌐 GitHub Repo: - https://github.com/say123ali
+
 ----------------------------------------------------------------------------------------------------------------------
-🛫 I graduated in Electronics and Telecommunication Engineering PICT.Pune 🏫, completed an M. Tech.🎓 in Electronics Engineering from  College of engineering Pune(COEP)🏫, Pune.
+🛫 I graduated in Electronics and Telecommunication Engineering from  PICT,Pune with Distinction 🏫, completed an M. Tech.🎓 in Electronics Engineering from  College of engineering Pune(COEP) with 8.96 CGPA🏫, Pune.
 
 I have worked on a variety of domains and projects.
 - Image Classification
