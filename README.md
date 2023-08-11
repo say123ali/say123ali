@@ -6,8 +6,20 @@ Qualification: MTech in Electrical & Electronics from College of Engineering, Pu
 
 Strong hands-on Statistical modelling, Machine learning, Deep learning, AI, NLP, Computer Vision, Python,SQL .
 
-I have 1.8 year of experience as Programmer Analyst in Cognizant Technology Solutions and 1+ years of experience in various fields and internship as Data Scientist, looking for transition to the Data Scientist Role. 
+I have 1.8 year of experience as Programmer Analyst in Cognizant Technology Solutions and 2+ years of experience in internship as Data Scientist.
+⏩ I am a Data Scientist proficient in Predictive Modelling, Data processing, Visualization, Data Analysis & Model development with experience in using Python, Machine Learning Algorithms, NLP & Computer Vision to solve challenging industry problems.
 
+✅ Key Skills: - • Web Scraping • Data Analysis • Machine learning Algorithms • Data Pre-processing • Data Visualization • Model Development • Ensemble techniques • Clustering and Classification • Artificial Neural Network • Computer Vision • Natural Language Processing • MySQL • Tableau
+
+✅ Natural Language Processing: Text Mining, Normalization, Counter Vectorization, TF-IDF, Word Embedding, Word2Vec, RNN, LSTM, GRU, Sentiment Analysis, Topic Modelling, Text Classification, Text Summarization, Speech to Text, OCR
+
+✅ Computer Vision: - CNN, VGG16, Alex net, Inception Net, RCNN, YOLO5, Transfer Learning, Image Classification, TensorFlow Object Detection, Image Captioning, Face Recognition
+
+⏩ I am open to new exciting opportunities with a valuable organization. Feel free to contact and connect with me if you think I can add value to your work or together, we can collaborate to create something amazing.
+📧 You can connect with me through this Email Id: - sayali.sk333@gmail.com
+🌐 GitHub Repo: - https://github.com/say123ali
+----------------------------------------------------------------------------------------------------------------------
+🛫 I graduated in Electronics and Telecommunication Engineering PICT.Pune 🏫, completed an M. Tech.🎓 in Electronics Engineering from  College of engineering Pune(COEP)🏫, Pune.
 
 I have worked on a variety of domains and projects.
 - Image Classification
