@@ -9,7 +9,7 @@ Strong hands-on Statistical modelling, Machine learning, Deep learning, AI, NLP,
 I have 1.8 year of experience as Programmer Analyst in Cognizant Technology Solutions and 2+ years of experience in internship as Data Scientist.
 ⏩ I am a Data Scientist proficient in Predictive Modelling, Data processing, Visualization, Data Analysis & Model development with experience in using Python, Machine Learning Algorithms, NLP & Computer Vision to solve challenging industry problems.
 
-✅ Key Skills: - • Web Scraping • Data Analysis • Machine learning Algorithms • Data Pre-processing • Data Visualization • Model Development • Ensemble techniques • Clustering and Classification • Artificial Neural Network • Computer Vision • Natural Language Processing • MySQL • Tableau
+✅ Key Skills: - • Web Scraping • Data Analysis • Machine learning Algorithms • Data Pre-processing • Data Visualization • Model Development • Ensemble techniques • Clustering and Classification • Artificial Neural Network • Computer Vision • Natural Language Processing • MySQL • Power BI
 
 ✅ Natural Language Processing: Text Mining, Normalization, Counter Vectorization, TF-IDF, Word Embedding, Word2Vec, RNN, LSTM, GRU, Sentiment Analysis, Topic Modelling, Text Classification, Text Summarization, Speech to Text, OCR
 
