@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist 👾</h3>
 <h3 align="center">NLP | ML | Python |Pyspark </h3> 
 
-Qualification: MTech in Electrical & Electronics from College of Engineering, Pune.
+Qualification: MTech in Electrical & Electronics from College of Engineering, Pune 8.96 CGPA.
 
 Strong hands-on Statistical modelling, Machine learning, Deep learning, AI, NLP, Computer Vision, Python,SQL .
 
@@ -20,8 +20,6 @@ I have 1.8 year of experience as Programmer Analyst in Cognizant Technology Solu
 🌐 GitHub Repo: - https://github.com/say123ali
 
 ----------------------------------------------------------------------------------------------------------------------
-🛫 I graduated in Electronics and Telecommunication Engineering from  PICT,Pune with Distinction 🏫, completed an M. Tech.🎓 in Electronics Engineering from  College of engineering Pune(COEP) with 8.96 CGPA🏫, Pune.
-
 I have worked on a variety of domains and projects.
 - Image Classification
 - Object Detection
