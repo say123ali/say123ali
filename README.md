@@ -7,6 +7,7 @@ Qualification: MTech in Electrical & Electronics from College of Engineering, Pu
 Strong hands-on Statistical modelling, Machine learning, Deep learning, AI, NLP, Computer Vision, Python,SQL .
 
 I have 1.8 year of experience as Programmer Analyst in Cognizant Technology Solutions and 2+ years of experience in internship as Data Scientist.
+
 ⏩ I am a Data Scientist proficient in Predictive Modelling, Data processing, Visualization, Data Analysis & Model development with experience in using Python, Machine Learning Algorithms, NLP & Computer Vision to solve challenging industry problems.
 
 ✅ Key Skills: - • Web Scraping • Data Analysis • Machine learning Algorithms • Data Pre-processing • Data Visualization • Model Development • Ensemble techniques • Clustering and Classification • Artificial Neural Network • Computer Vision • Natural Language Processing • MySQL • Power BI
