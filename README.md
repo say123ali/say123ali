@@ -1,12 +1,12 @@
 <h1 align="center">Hey I'm Sayali 👋</h1>
-<h3 align="center">Aspiring Data Scientist 👾</h3>
+<h3 align="center">Data Scientist 👾</h3>
 <h3 align="center">NLP | ML | Python |Pyspark </h3> 
 
 Qualification: MTech in Electrical & Electronics from College of Engineering, Pune 8.96 CGPA.
 
 Strong hands-on Statistical modelling, Machine learning, Deep learning, AI, NLP, Computer Vision, Python,SQL .
 
-I have 1.8 year of experience as Programmer Analyst in Cognizant Technology Solutions and 2+ years of experience in internship as Data Scientist.
+I have  2+ years of experience  as Data Scientist.
 
 ⏩ I am a Data Scientist proficient in Predictive Modelling, Data processing, Visualization, Data Analysis & Model development with experience in using Python, Machine Learning Algorithms, NLP & Computer Vision to solve challenging industry problems.
 
