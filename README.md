@@ -6,7 +6,7 @@ Qualification: MTech in Electrical & Electronics from College of Engineering, Pu
 
 Strong hands-on Statistical modelling, Machine learning, Deep learning, AI, NLP, Computer Vision, Python,SQL .
 
-I have  2+ years of experience  as Data Scientist.
+I have  3+ years of experience  as Data Scientist.
 
 ⏩ I am a Data Scientist proficient in Predictive Modelling, Data processing, Visualization, Data Analysis & Model development with experience in using Python, Machine Learning Algorithms, NLP & Computer Vision to solve challenging industry problems.
 
