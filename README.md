@@ -5,7 +5,7 @@
   My name is <b>Sayali Salunkhe</b>.<br/>
   I am working as a <b>Data Scientist.</b><br>
  
-<p>📫 How to reach me:innocent:</p>
+<p>📫 How to reach me:</p>
 
 <p align='center'>
  
