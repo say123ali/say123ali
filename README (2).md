@@ -4,17 +4,16 @@
 <p align='center'>
   My name is <b>Sayali Salunkhe</b>.<br/>
   I am working as a <b>Data Scientist.</b><br>
-  Currently learning and working with <b>Python</b>, <b>LLM</b>, <b>Sklearn</b>, <b>NLP</b>, <b>Matplotlib</b>, <b>Tensorflow</b>,and <b>Keras</b>
-</p>
+ 
 <p>📫 How to reach me:innocent:</p>
 
 <p align='center'>
  
-  <a href="avikumar.talaviya@gmail.com">
+  <a href="sayali.sk333@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp
   
-  <a href="https://www.linkedin.com/in/avi-kumar-talaviya-739153147/">
+  <a href="www.linkedin.com/in/sayali-salunkhe-a7a021b5">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp
   
