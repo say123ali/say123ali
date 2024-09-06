@@ -1,6 +1,21 @@
-<h1 align="center">Hey I'm Sayali 👋</h1>
-<h3 align="center">Data Scientist 👾</h3>
-<h3 align="center">NLP | ML | Python |Pyspark </h3> 
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
+<p align="center">  Hi there! 👋 </p>
+<p align='center'>
+  My name is <b>Sayali Salunkhe</b>.<br/>
+  I am working as a <b>Data Scientist.</b><br>
+ 
+<p>📫 How to reach me:innocent:</p>
+
+<p align='center'>
+ 
+  <a href="sayali.sk333@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>&nbsp
+  
+  <a href="www.linkedin.com/in/sayali-salunkhe-a7a021b5">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>&nbsp
 
 Qualification: MTech in Electrical & Electronics from College of Engineering, Pune 8.96 CGPA.
 
