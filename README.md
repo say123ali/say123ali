@@ -16,6 +16,12 @@
   <a href="www.linkedin.com/in/sayali-salunkhe-a7a021b5">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp
+</p>
+
+[![Sayali's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=say123ali&theme=dark)](https://git.io/streak-stats)
+
+[![Sayali's GitHub stats](https://github-readme-stats.vercel.app/api?username=say123ali&show_icons=true&theme=radical)](https://github.com/say123ali/github-readme-stats)
+
 
 Qualification: MTech in Electrical & Electronics from College of Engineering, Pune 8.96 CGPA.
 
