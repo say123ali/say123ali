@@ -5,7 +5,7 @@
   My name is <b>Sayali Salunkhe</b>.<br/>
   I am working as a <b>Data Scientist.</b><br>
  
-<p>📫 How to reach me:innocent:</p>
+<p>📫 How to reach me::</p>
 
 <p align='center'>
  
@@ -17,15 +17,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp
   
-  <a href="https://twitter.com/avikumart_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
+  
   
 </p>
 
-[![Avikumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avikumart&theme=dark)](https://git.io/streak-stats)
+[![Sayali's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=say123ali&theme=dark)](https://git.io/streak-stats)
 
-[![Avikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=avikumart&show_icons=true&theme=radical)](https://github.com/avikumart/github-readme-stats)
+[![Sayali's GitHub stats](https://github-readme-stats.vercel.app/api?username=say123ali&show_icons=true&theme=radical)](https://github.com/say123ali/github-readme-stats)
 
 
 My Interests :heart_eyes:<br>
