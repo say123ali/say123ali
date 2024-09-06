@@ -2,9 +2,9 @@
 
 <p align="center">  Hi there! 👋 </p>
 <p align='center'>
-  My name is <b>Avikumar Talaviya</b>.<br/>
-  I am practicing <b>Data Scientist.</b><br>
-  Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>Sklearn</b>, <b>Pandas</b>, <b>Matplotlib</b>, <b>Tensorflow</b>,and <b>Keras</b>
+  My name is <b>Sayali Salunkhe</b>.<br/>
+  I am working as a <b>Data Scientist.</b><br>
+  Currently learning and working with <b>Python</b>, <b>LLM</b>, <b>Sklearn</b>, <b>NLP</b>, <b>Matplotlib</b>, <b>Tensorflow</b>,and <b>Keras</b>
 </p>
 <p>📫 How to reach me:innocent:</p>
 
